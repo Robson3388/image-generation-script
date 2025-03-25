@@ -14,7 +14,8 @@ import io
 # Current script version
 SCRIPT_VERSION = "1.0.0"
 
-# URLs for the remote script and version file (replace 'your-username' with your GitHub username)
+# URLs for the remote script and version file
+# Replace 'your-username' with your actual GitHub username
 REMOTE_VERSION_URL = "https://raw.githubusercontent.com/your-username/image-generation-script/main/version.txt"
 REMOTE_SCRIPT_URL = "https://raw.githubusercontent.com/your-username/image-generation-script/main/python_generate_images_gui.py"
 
